@@ -28,7 +28,7 @@ def main():
 
  print("Sum of given numbers: ", sum_result)
  print("Product of given numbers: ", product_result)
- print("Numbers given in reverse order: ", numbers_reversed)
+ print("Numbers given in reverse order:  ", numbers_reversed)
 
 
 if __name__ == "__main__":
