@@ -26,7 +26,7 @@ def main():
  numbers_reversed = reverse_numbers(input_numbers)
 
 
- print("Sum of given numbers: ", sum_result)
+ print("Sum of given  numbers:  ", sum_result)
  print("Product of given numbers:  ", product_result)
  print("Numbers given in reverse order:  ", numbers_reversed)
 
